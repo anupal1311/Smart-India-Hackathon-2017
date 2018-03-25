@@ -1,0 +1,2 @@
+# Smart-India-Hackathon-2017
+According to the proposed solution, all the employees data is stored in cloud and respective SAIL admin can access his/her plant's employees data after login successfully by entering his/her unique user ID and password. An employee's data transfer can be made online by moving his/her file entry from one cloud location to another, after the successful transfer only the new plant's admin will have the access rights of employee data.
